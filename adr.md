@@ -103,3 +103,8 @@
   - render flag only signal "bram ready". render engine can wait for itself to finished first
 - very easy to implement
 - additional ddr bandwidth
+
+### COL and MOVS ISA (?)
+- COL for collition detecion
+- MOVS for "move entire shape"
+- not sure should be implement
