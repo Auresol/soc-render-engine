@@ -58,8 +58,6 @@ halt()
 The compiler translates this into binary targeting the custom ISA and manages register
 allocation, variable layout in BRAM, and static shape ordering for the render engine.
 
-The high level langauge name is suchad
-
 ## ISA
 
 16 instructions, 32-bit fixed width, big-endian:
